@@ -1,5 +1,24 @@
+img{
+    height:250px;
+    width:200px;
+}
+span i {
+    padding: 20px;
+}
 #mphoto {
     border-radius: 65%;
     width: 250px;
     height: 200px;
 }
+.fa-html5 {
+    color: #f06529;
+}
+.fa-css3-alt {
+    color: #2965f1;
+
+}
+.fa-bootstrap {
+    color: #563d7c;
+
+}
+
