@@ -1,0 +1,35 @@
+img {
+    height: 300px;
+    width: 230px;
+    border-radius: 50%;
+}
+
+td {
+    padding-right: 15px;
+}
+
+.fa-html5 {
+    color: #f06529;
+}
+
+.fa-css3-alt {
+    color: #2965f1;
+
+}
+
+.fa-bootstrap {
+    color: #563d7c;
+
+}
+
+.fa-js {
+    color: #f0db4f;
+}
+
+.fa-ubuntu {
+    color: #dd4814;
+}
+
+.fa-git-square {
+    color: #bd2c00;
+}
